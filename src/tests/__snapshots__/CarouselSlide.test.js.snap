@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CarouselSlide Img allows styles to be overridden 1`] = `
+.c0 {
+  width: auto;
+  height: auto;
+  object-fit: fill;
+}
+
+<img
+  className="c0"
+/>
+`;
